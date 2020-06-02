@@ -2,11 +2,11 @@
 This is my python class final exam.  Use Mqtt&amp;MySQL to example  
 
 
-MicroPython References:  
+MicroPython References :  
 1.http://yhhuang1966.blogspot.com/2019/07/micropython-on-esp32.html   
 2.http://yhhuang1966.blogspot.com/2017/05/micropython-on-esp8266_18.html  
 
-Line Bot : 
+Line Bot :  
 1.line code : https://blackmaple.me/line-bot-tutorial/  
 2.Server Site : https://dashboard.heroku.com/  
 
