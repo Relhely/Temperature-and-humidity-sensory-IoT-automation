@@ -1,0 +1,6 @@
+line-bot-sdk
+flask
+gspread
+oauth2client
+paho-mqtt	
+Flask-MQTT
