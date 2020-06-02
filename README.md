@@ -14,7 +14,7 @@ Line Bot :
 Computer References(MySQL、Tkinter、GoogleSheet) :  
 1.Tkinter : https://likegeeks.com/python-gui-examples-tkinter-tutorial/  
 2.MySQL : https://www.runoob.com/python3/python3-mysql.html  
-3.Google Sheet :  https://medium.com/@yanweiliu/%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8Epython%E5%BB%BA%E7%AB%8Bgoogle%E8%A1%A8%E5%96%AE-%E4%BD%BF%E7%94%A8google-sheet-api-314927f7a601  
+3.Google Sheet : https://medium.com/@yanweiliu/如何透過python建立google表單-使用google-sheet-api-314927f7a601
 
 
 
