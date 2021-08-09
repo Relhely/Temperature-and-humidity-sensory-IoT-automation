@@ -11,7 +11,7 @@
   6. Heroku
 
 ## 介面預覽
-![PC1](/Picture/圖片1.jpg)
+![PC1](https://github.com/Relhely/python_final_exam/blob/master/Picture/%E5%9C%96%E7%89%871.png)
 
 ## Python_Final_Exam
 This is my python class final exam.  Use Mqtt&amp;MySQL to example  
