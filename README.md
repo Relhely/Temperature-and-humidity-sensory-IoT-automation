@@ -1,4 +1,19 @@
-# Python_Final_Exam
+# Python小專題(MQTT溫溼度感測&大數據整理)
+
+## 簡介
+  透過ESP32+溫溼度感測器，將數值傳送到電腦端，電腦在將數值進行處理存入MySQL，並且使其可以透過電腦介面或Linebot來去做最新的溫溼度查詢，使用到的工具有
+  
+  1. MySQL
+  2. MicroPython
+  3. Python
+  4. MQTT
+  5. LineBot
+  6. Heroku
+
+
+
+
+## Python_Final_Exam
 This is my python class final exam.  Use Mqtt&amp;MySQL to example  
 
 
