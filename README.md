@@ -23,7 +23,8 @@
   在此專案中的一些小部分需要注意，像是LineBot的金鑰、MySQL的權限和語法
 
 
-## Python_Final_Exam
+## Temperature and humidity sensory IoT automation
+
 This is my python class final exam.  Use Mqtt&amp;MySQL to example  
 
 
